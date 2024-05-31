@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Definition of _hash_password function
+_hash_password function
 """
 import bcrypt
 from uuid import uuid4
